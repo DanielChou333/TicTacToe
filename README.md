@@ -1,3 +1,14 @@
+## Diary of progression
+1. Develop app using create-react-app and npm start
+2. open remote repo on git, clone to local, copy+paste original local directory into cloned directory (all files except node_modules), run npm install
+3. add base, url, homepage entries to package.json
+4. npm run deploy => npm run build && gh-pages -d build
+5. goto remote repo on github, go to settings>pages, set deploy source to from branch: gh-pages /(root)
+
+I used this tutorial as guide to deploy
+https://youtu.be/QyFcl_Fba-k
+============================================================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
